@@ -115,13 +115,15 @@ img {
 
 /* ----------------------------------------- */
 /* ------------------HERO------------------ */
-.hero-container {
-    background-color:#2E2F42 ;
-     padding: 188px 0;     
-}
+
+
 .hero {
     padding-top: 60px;
    
+}
+.hero-container {
+    padding: 188px 0 ;
+    background-color: #2E2F42;
 }
 
 .hero-title {
