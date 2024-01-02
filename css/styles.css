@@ -324,16 +324,14 @@ letter-spacing:0.02em;
 /* ----------------------------------------- */
 /* ------------------FOOTER----------------- */
 .footer-name { 
-    
-    
+    padding: 100px 0    
 }
+
 .container-footer {
     background-color: #2E2F42;
     padding-top: 100px;
     padding-bottom: 100px; 
-    padding-left: 156px; 
-           
-       
+    padding-left: 156px;        
 }
 
 .footer-logo {
@@ -344,25 +342,21 @@ letter-spacing:0.02em;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    
-          
-   
-    
+    display: inline-block;
+    margin-bottom: 16px    
 }
+
 .footer-logo-part {
     color: #F4F4FD; 
-       
-
 }
+
 
 .footer-text {
     color:#F4F4FD;     
     font-size: 16px;    
     line-height:1.5;
     letter-spacing:0.02em;    
-    max-width: 264px;
-    padding-top: 17.5px;     
- 
+    max-width: 264px;     
 }
 
 /* ----------------------------------------- */
