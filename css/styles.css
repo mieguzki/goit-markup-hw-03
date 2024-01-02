@@ -263,20 +263,21 @@ letter-spacing:0.02em;
 }
 /* ----------------------------------------- */
 /* ------------------OUR PORTFOLIO------------------ */
-.portfolio {
-    padding-top: 120px;
-    margin-bottom: 120px;
-    
+.portfolio {       
 }
+.portfolio-container{
+    padding: 120px 0 120px 0;
+}
+
 .portfolio-name {
+    padding-bottom: 72px;
     color:#2E2F42;      
     font-size: 36px;    
     font-weight: 700;
     line-height:1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    text-align: center;
-    padding-bottom: 72px;
+    text-align: center;    
 }
 .portfolio-number {
     background-color: #FFF;
@@ -287,17 +288,21 @@ letter-spacing:0.02em;
 }
 
 .portfolio-heel {
-    width: calc( (100% - 24px * 2) /3 );    
-    border: 1px solid  #E7E9FC;
-    background-color: #FFF;
-    padding-bottom: 32px;
+    width: calc( (100% - 24px * 2) /3 ); 
+      
 }
 
 .portfolio-img {
     margin: 0 auto;
     margin-bottom: 32px;
     
-}    
+}  
+.portfolio-body  {
+    padding: 32px 16px;
+    border: 1px solid  #E7E9FC;
+    border-top: none;
+    margin-bottom: 8px;
+}
 
 .portfolio-list {
     color:#2E2F42;    
