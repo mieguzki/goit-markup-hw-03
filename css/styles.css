@@ -18,6 +18,7 @@ ul,ol {
     padding: 0;
     margin: 0;
 }
+
 address {
     font-style: normal;
 }
@@ -169,13 +170,11 @@ padding-bottom: 120px;
 }
 .features-list {
     display: flex;
-    gap: 24px;
-    padding-left: 156px;
-    padding-right: 156px;
+    gap: 24px;    
 } 
-.features-item { width: calc((100% - 72px) / 4);
-    
-}
+.features-item 
+
+
     
 .features-title {
     color:#2E2F42;
@@ -185,6 +184,7 @@ padding-bottom: 120px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     margin-bottom: 8px;
+    width: calc((100% - 72px) / 4)
 }
 
 .features-text {
