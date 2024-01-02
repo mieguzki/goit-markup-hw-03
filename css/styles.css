@@ -226,17 +226,22 @@ letter-spacing:0.02em;
     }
 
 .our-team-list {
-    
+
     width: calc( (100% - 24px * 3) /4 );
     border-radius: 0px 0px 4px 4px;
    
 }
 .our-team-img {
-    margin: 0 auto;
+    margin: 0 auto;    
+}
+
+.our-team-list {
     
 }
-.our-team-list {
+.our-team-heel {
     padding: 32px 0;
+    margin-bottom: 8px; 
+    text-align: center;
 }
 
 .our-team-name {
@@ -244,9 +249,8 @@ letter-spacing:0.02em;
     font-size: 20px;    
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: 0.02em;
-    text-align: center;
-    margin-bottom: 8px;
+    letter-spacing: 0.02em;    
+    
 }
 
 .our-team-text {
