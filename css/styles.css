@@ -317,9 +317,7 @@ letter-spacing:0.02em;
 .footer-name { 
     padding: 100px 0 ;
     background-color: #2E2F42;
-    padding-top: 100px;
-    padding-bottom: 100px; 
-    padding-left: 156px;    
+    padding: 100 0;   
 }
 
 .container-footer {
